@@ -4,8 +4,8 @@ function iterativeLog(array) {
   );
 }
 
-function iterate() {
-
+function iterate(callback) {
+  
 }
 
 function doToArray(array, callback) {
