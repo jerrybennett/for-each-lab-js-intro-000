@@ -3,3 +3,11 @@ function iterativeLog(array) {
     console.log(`${array[index]}: ${array[element]}`)
   );
 }
+
+function iterate() {
+
+}
+
+function doToArray(array, callback) {
+  array.forEach(callback);
+}
